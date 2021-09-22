@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-9te3i/static/css/main.27071d5f.chunk.css",
+    "main.js": "https://.github.io/csb-9te3i/static/js/main.805a40ff.chunk.js",
+    "main.js.map": "https://.github.io/csb-9te3i/static/js/main.805a40ff.chunk.js.map",
+    "runtime~main.js": "https://.github.io/csb-9te3i/static/js/runtime~main.c421337d.js",
+    "runtime~main.js.map": "https://.github.io/csb-9te3i/static/js/runtime~main.c421337d.js.map",
+    "static/css/2.dfd58508.chunk.css": "https://.github.io/csb-9te3i/static/css/2.dfd58508.chunk.css",
+    "static/js/2.7ebee4a2.chunk.js": "https://.github.io/csb-9te3i/static/js/2.7ebee4a2.chunk.js",
+    "static/js/2.7ebee4a2.chunk.js.map": "https://.github.io/csb-9te3i/static/js/2.7ebee4a2.chunk.js.map",
+    "index.html": "https://.github.io/csb-9te3i/index.html",
+    "precache-manifest.a894d8fd7b96c585e3049a9059aa6cbd.js": "https://.github.io/csb-9te3i/precache-manifest.a894d8fd7b96c585e3049a9059aa6cbd.js",
+    "service-worker.js": "https://.github.io/csb-9te3i/service-worker.js",
+    "static/css/2.dfd58508.chunk.css.map": "https://.github.io/csb-9te3i/static/css/2.dfd58508.chunk.css.map",
+    "static/css/main.27071d5f.chunk.css.map": "https://.github.io/csb-9te3i/static/css/main.27071d5f.chunk.css.map",
+    "static/media/burger.png": "https://.github.io/csb-9te3i/static/media/burger.3f2a4dae.png",
+    "static/media/floor.png": "https://.github.io/csb-9te3i/static/media/floor.f5b6ed11.png",
+    "static/media/ground.png": "https://.github.io/csb-9te3i/static/media/ground.65fd5b77.png",
+    "static/media/houses.png": "https://.github.io/csb-9te3i/static/media/houses.fc41d8c4.png",
+    "static/media/kitchen.png": "https://.github.io/csb-9te3i/static/media/kitchen.746323a4.png",
+    "static/media/picture.png": "https://.github.io/csb-9te3i/static/media/picture.3f7c63c6.png",
+    "static/media/plate.png": "https://.github.io/csb-9te3i/static/media/plate.8af72113.png",
+    "static/media/room.png": "https://.github.io/csb-9te3i/static/media/room.cda649da.png",
+    "static/media/signboard.png": "https://.github.io/csb-9te3i/static/media/signboard.08e91c43.png",
+    "static/media/table.png": "https://.github.io/csb-9te3i/static/media/table.b17e6031.png",
+    "static/media/winner.png": "https://.github.io/csb-9te3i/static/media/winner.aa4e1286.png",
+    "static/media/wooden-floor.png": "https://.github.io/csb-9te3i/static/media/wooden-floor.6a9cdb6b.png"
+  }
+}
